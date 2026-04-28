@@ -1,4 +1,5 @@
-# athaappppp
+# AtharraynaD (20241310038)
+# Informatika A2
 
 A new Flutter project.
 
